@@ -9,6 +9,7 @@ body {
   width: 75%;
 }
 .sm {
+  padding: 20px;
   width: 75%;
   border-collapse: separate;
   border: 5px black solid;
