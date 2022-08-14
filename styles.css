@@ -10,8 +10,9 @@ body {
 }
 .sm {
   width: 75%;
+  border-collapse: separate;
   border: 5px black solid;
-  border-radius: 50px;
+  border-radius: 50px 30px;
 }
 img {
   width: 100%;
