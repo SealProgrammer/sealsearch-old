@@ -10,6 +10,7 @@ body {
 }
 .sm {
   width: 75%;
+  border: 3px black dotted;
   border-radius: 30px;
 }
 img {
