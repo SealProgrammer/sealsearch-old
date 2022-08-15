@@ -1,6 +1,7 @@
 body {
   background-color: #e8e8e8;
   hyphens: auto;
+  overflow-wrap: anywhere;
 }
 .centered-y {
   position: relative;
