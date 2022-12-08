@@ -24,7 +24,7 @@ img {
   width: 65%;
   aspect-ratio: 4/3;
 }
-.container {
+.anchored-bottom {
   position: absolute;
   bottom: 0px;
   left: 50vw;
