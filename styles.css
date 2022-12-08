@@ -27,7 +27,9 @@ img {
 .container {
   position: absolute;
   bottom: 0px;
+  left: 50vw;
   margin: auto;
   width: 75vw;
-  padding: 10px;
+  position: absolute;
+  transform: translate(-50%,-50%);
 }
