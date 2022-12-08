@@ -25,10 +25,9 @@ img {
   aspect-ratio: 4/3;
 }
 .container {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   position: absolute;
   bottom: 0px;
-  left: 50%;
+  margin: auto;
+  width: 75vw;
+  padding: 10px;
 }
